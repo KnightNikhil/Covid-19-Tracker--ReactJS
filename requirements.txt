@@ -1,0 +1,7 @@
+npm install --save 
+axios // make get request to API
+react-chartjs-2 // library for meking chart
+react-countup // animation while counting
+@material-ui/core
+classnames
+chart.js
